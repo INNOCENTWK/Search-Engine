@@ -1,2 +1,2 @@
 # Search-Engine
-Just a small search engine project I'm starting
+An attempt to create a search engine that is both efficient and aesthetically good to look at
